@@ -1,0 +1,12 @@
+RoomType,RoomNumber,BedConfiguration,DailyRate
+Standard,101,Single,90
+Standard,102,Single,90
+Standard,201,Twin,110
+Standard,202,Twin,110
+Standard,203,Twin,110
+Standard,301,Triple,120
+Standard,302,Triple,120
+Deluxe,204,Twin,140
+Deluxe,205,Twin,140
+Deluxe,303,Triple,210
+Deluxe,304,Triple,210
